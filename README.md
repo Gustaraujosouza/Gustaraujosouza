@@ -1,6 +1,8 @@
 <Quem sou eu?>
+
   -✌Olá meu nome é Gustavo Araújo Souza✌
   -🖥Estou começando na área da programação e curso análise e desenvolvimento de sistemas🖥
+  
 <Quem sou eu?/>
 
 <Minhas aptidões>
@@ -16,5 +18,7 @@
 <Minhas aptidões/>
 
 <Meus contatos>
+
   -📞Para entrar em contato comigo: gustaraujosouza@gmail.com📞
+  
 <Meus contatos/>
