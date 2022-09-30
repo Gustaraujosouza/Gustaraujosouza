@@ -5,6 +5,7 @@
 
 <Minhas aptidões>
  -💻Minhas maiores mailiaridades são com python, javascript, css e html💻
+ 
      <Meu estudo mais focado>
        -🖼Pretendo me especializar no frontend🖼
      <Meu estudo mais focado/>
