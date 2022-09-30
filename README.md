@@ -1,16 +1,19 @@
-### Hi there 👋
+<Quem sou eu?>
+ -✌Olá meu nome é Gustavo Araújo Souza✌
+ -🖥Estou começando na área da programação e curso análise e desenvolvimento de sistemas🖥
+<Quem sou eu?/>
 
-<!--
-**Gustaraujosouza/Gustaraujosouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<Minhas aptidões>
+ -💻Minhas maiores mailiaridades são com python, javascript, css e html💻
+     <Meu estudo mais focado>
+       -🖼Pretendo me especializar no frontend🖼
+     <Meu estudo mais focado/>
+     
+     <Meus maiores interesses>
+       -🤖Tenho muito interesse por qualquer coisa relacionada a inteligência artificial, machine learning e IOT 🤖
+     <Meus maiores interesses/>
+<Minhas aptidões/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<Meus contatos>
+ -📞Para entrar em contato comigo: gustaraujosouza@gmail.com📞
+<Meus contatos/>
